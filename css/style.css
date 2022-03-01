@@ -49,7 +49,7 @@ header .container {
 .general {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/buggyPepeu.jpg) no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../img/buggyPepeu.jpg) no-repeat;
     background-position: left;
     background-size: cover;
     object-fit: cover;
@@ -247,7 +247,7 @@ header .container {
 }
 
 .card1 {
-    background: url(/img/pipa.jpg);
+    background: url(../img/pipa.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -257,19 +257,19 @@ header .container {
 }
 
 .card2 {
-    background: url(/img/buggyPepeu.jpg);
+    background: url(../img/buggyPepeu.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .card3 {
-    background: url(/img/parrachos.jpg);
+    background: url(../img/parrachos.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .card4 {
-    background: url(/img/lagoaPitangui.jpg);
+    background: url(../img/lagoaPitangui.jpg);
     background-position: center;
     background-size: cover;
 }
